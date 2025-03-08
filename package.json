@@ -29,12 +29,12 @@
         "ioredis": "^4.27.8",
         "mysql": "^2.18.1",
         "node-cron": "^3.0.2",
-        "node-libcurl": "^2.3.3",
-        "node-telegram-bot-api": "^0.61.0",
+        "node-libcurl": "^4.0.0",
+        "node-telegram-bot-api": "^0.64.0",
         "nopt": "^5.0.0",
         "random-org": "^2.1.1",
         "requestify": "^0.2.5",
-        "socket.io": "^2.4.1",
+        "socket.io": "^3.0.5",
         "socks5-http-client": "^1.0.4",
         "util": "^0.12.4"
     }
